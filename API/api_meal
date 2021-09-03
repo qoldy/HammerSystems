@@ -1,0 +1,32 @@
+www.themealdb.com/api/json/v1/1/lookup.php?i=52819
+
+{
+    "meals": [
+        {
+            "idMeal": "52819",
+            "strMeal": "Cajun spiced fish tacos",
+            "strCategory": "Seafood",
+	    "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "strIngredient1": "cajun",
+            "strIngredient2": "cayenne pepper",
+            "strIngredient3": "white fish",
+            "strIngredient4": "vegetable oil",
+            "strIngredient5": "flour tortilla",
+            "strIngredient6": "avocado",
+            "strIngredient7": "little gem lettuce",
+            "strIngredient8": "spring onion",
+            "strIngredient9": "salsa",
+            "strIngredient10": "sour cream",
+            "strIngredient11": "lemon",
+            "strIngredient12": "garlic",
+            "strIngredient13": "",
+            "strIngredient14": "",
+            "strIngredient15": "",
+            "strIngredient16": "",
+            "strIngredient17": "",
+            "strIngredient18": "",
+            "strIngredient19": "",
+            "strIngredient20": ""
+        }
+    ]
+}

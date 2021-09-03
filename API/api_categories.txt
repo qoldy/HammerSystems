@@ -1,0 +1,14 @@
+www.themealdb.com/api/json/v1/1/categories.php
+
+{
+    "categories": [
+        {
+            "idCategory": "1",
+            "strCategory": "Beef"},
+        {
+            "idCategory": "2",
+            "strCategory": "Chicken",
+            },
+	...
+        ]
+}
